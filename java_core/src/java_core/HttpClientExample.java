@@ -21,8 +21,8 @@ public class HttpClientExample {
 
 	public static List<Map<Integer, Object>> createListHttpResponse(){
 		List<Map<Integer, Object>> listHttpResponse = new ArrayList<>();
-		for(int i = 0; i < 50; i++) {
-			Map<Integer, Object> map = new HashMap<>();
+		for(int i = 0; i < 100; i++) {
+			Map<Integer, Object> map = new HashMap<>();		
 			HttpResponse response = executeHttpClient();
 			map.put(i, response);
 			listHttpResponse.add(map);

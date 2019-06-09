@@ -1,0 +1,11 @@
+send 50 request:
+Run sequence: 7756, 7271, 7264, 7630, 7839
+Run with runable multi threading : 2269, 2225, 2169, 2206, 2292
+Run with callable new cached thread pool mutithreading: 1419, 1443, 1472, 1446, 1412
+Run with runable new cached thread pool: 1567, 1581, 1486, 1537, 1511
+
+send 100 request
+Run sequence: 50567, 50851, 50875, 51880, 49771	
+Run with runable multi threading : 11051, 10910, 11068, 10611, 11494
+Run with callable new cached thread pool mutithreading: 1626, 1684, 1636, 1610, 1659
+Run with runable new cached thread pool: 1713, 1661, 1862, 1721, 1733
