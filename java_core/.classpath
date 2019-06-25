@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/ptanX/Desktop/study_and_work/jar/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ptanX/Desktop/study_and_work/jar/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ptanX/Desktop/study_and_work/jar/httpclient-4.5.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ptanX/Desktop/study_and_work/jar/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/binh.nguyenthai/Desktop/java_jar_lib/httpClient/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/binh.nguyenthai/Desktop/java_jar_lib/httpClient/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/binh.nguyenthai/Desktop/java_jar_lib/httpClient/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/binh.nguyenthai/Desktop/java_jar_lib/httpClient/httpcore-4.4.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
